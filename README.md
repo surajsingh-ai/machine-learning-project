@@ -102,6 +102,9 @@ numpy>=1.23.0
 - Add authentication or user management
 - Deploy the app on cloud platforms (Streamlit Community Cloud, Render, etc.)
 
+Deployed app: [https://machine-learning-project-2-onop.onrender.com/](https://machine-learning-project-2-onop.onrender.com/)
+
+
 ## License
 
 MIT License – feel free to use and modify this project for your learning purposes.
